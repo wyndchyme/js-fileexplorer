@@ -1,4 +1,4 @@
-<h1>js-fileexplorer</h1>
+<h1>JavaScript Dynamic File Explorer</h1>
 <i>This repository contains JavaScript for a dynamically generated file explorer for any GitHub repository.</i>
 
 <h2>Description</h2>
