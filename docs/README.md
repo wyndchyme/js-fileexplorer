@@ -17,4 +17,4 @@ Add specific icons for certain file extensions by adding this to your <code>styl
 A sample of this script can be found in the <code>index.html</code> file that uses this repository as an example. You can view this example as a website <a href="https://wyndchyme.github.io/js-fileexplorer/">here.</a>
 
 <h2>Legal</h2>
-© wyndchyme 2025. Licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a>.
+© 2025 wyndchyme. Licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a>.
